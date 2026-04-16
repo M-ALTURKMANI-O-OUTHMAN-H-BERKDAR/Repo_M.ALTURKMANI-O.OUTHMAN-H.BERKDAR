@@ -1,3 +1,1 @@
-class B {
-  String name = "main";
-}
+class B {}
